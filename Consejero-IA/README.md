@@ -16,7 +16,7 @@ Unitutor IA es un proyecto académico diseñado para brindar apoyo a estudiantes
 ## Probar el proyecto
 Puedes explorar la aplicación aquí:
 
-**[Abrir Unitutor IA] https://studio.code.org/projects/applab/CVCs-JtCN5KX_tRWuO1Ax3pENUySPoowIda-w7M3oWA**
+**https://studio.code.org/projects/applab/CVCs-JtCN5KX_tRWuO1Ax3pENUySPoowIda-w7M3oWA**
 
 ## Objetivo académico
 Explorar cómo una aplicación interactiva puede apoyar a los estudiantes en su organización académica y bienestar emocional.
