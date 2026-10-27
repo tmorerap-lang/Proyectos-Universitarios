@@ -84,8 +84,8 @@ Proyecto académico desarrollado en equipo como parte de la formación en Cienci
 
 - **Tomás Morera** — 
 - **Wilmer Andres Cordoba Palacios** — 
-- **Ian Mateo Rodriguez** —
-- **Juan Diego Ocampo del Rio** — 
+- **Juan Diego Campo Del Rio** -
+- **Ian Mateo Rodrgiquez Gómez** -
 
 ## 🎓 Institución
 
