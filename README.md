@@ -7,8 +7,8 @@
 ## 🛠️ Tecnologías y herramientas
 
 ### 💻 Lenguajes de programación
-- Java
 - Python
+- Java
 - C++
 
 ### 🌐 Desarrollo web
