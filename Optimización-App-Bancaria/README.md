@@ -82,7 +82,7 @@ La documentación describe una arquitectura y funcionalidades propuestas. No se 
 
 Proyecto académico desarrollado en equipo como parte de la formación en Ciencias de la Computación en la Universidad Sergio Arboleda.
 
-- **Tomás Morera** — 
+- **Tomás Felipe Morera Pérez** — 
 - **Wilmer Andres Cordoba Palacios** — 
 - **Juan Diego Campo Del Rio** -
 - **Ian Mateo Rodrgiquez Gómez** -
