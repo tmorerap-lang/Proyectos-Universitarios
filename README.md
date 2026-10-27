@@ -1,89 +1,101 @@
 # 👋 ¡Hola! Soy Tomás Morera
 
-### Estudiante de Ciencias de la Computación | Desarrollador en formación
+🎓 Estudiante de **Ciencias de la Computación** en la Universidad Sergio Arboleda, actualmente cursando tercer semestre.
 
-¡Bienvenido a mi portafolio de proyectos académicos! 🚀
-
-Soy estudiante de Ciencias de la Computación en la Universidad Sergio Arboleda, actualmente cursando tercer semestre. Me interesa el desarrollo de software, la inteligencia artificial, las estructuras de datos y la solución de problemas mediante la tecnología.
-
-Este repositorio reúne proyectos que he desarrollado durante mi formación universitaria, en los que aplico conceptos de programación, lógica computacional y diseño de soluciones.
+💻 Soy un desarrollador en formación interesado en la programación, el desarrollo de software, la inteligencia artificial y la creación de soluciones tecnológicas para problemas reales. En este portafolio comparto mis proyectos académicos, los conocimientos que he adquirido y mi proceso de aprendizaje.
 
 ## 🛠️ Tecnologías y herramientas
 
-**Lenguajes de programación y desarrollo web**
-
+### 💻 Lenguajes de programación
 - Java
 - Python
 - C++
+
+### 🌐 Desarrollo web
 - HTML
 - CSS
+- JavaScript
 
-**Herramientas**
-
+### ⚙️ Herramientas de desarrollo
 - Visual Studio Code
 - Eclipse
 - NetBeans
 - Google Colab
 - Arduino
 
-**Conceptos que he trabajado**
+### 📊 Herramientas de productividad
+- Microsoft Excel
+- Microsoft Word
 
-- Programación orientada a objetos
-- Estructuras de datos
-- Algoritmos y lógica computacional
-- Diseño de software
-- Fundamentos de inteligencia artificial
-- Desarrollo web con HTML y CSS
+## 🧠 Conocimientos
 
-## 📂 Proyectos destacados
+- Programación orientada a objetos (POO).
+- Estructuras de datos y algoritmos.
+- Lógica y pensamiento computacional.
+- Fundamentos de inteligencia artificial.
+- Fundamentos de diseño de software.
+- Desarrollo web con HTML y CSS.
+- Desarrollo de aplicaciones interactivas.
+- Resolución de problemas mediante programación.
 
-### 🚚 FLASH LOGISTICS — Sistema de asistencia vehicular
+## 🚀 Proyectos académicos
 
-Sistema desarrollado en Python para gestionar solicitudes de asistencia vehicular, rutas, inventario y camiones.
+### 1. 🚚 FLASH LOGISTICS — Sistema de asistencia vehicular
+Sistema desarrollado en Python para gestionar solicitudes de asistencia vehicular, rutas, inventario y organización de servicios.
 
-**Conceptos aplicados:** listas enlazadas, listas dobles, listas circulares, matrices, pilas y colas.
+**Tecnologías y conceptos:** Python, listas enlazadas, listas dobles, listas circulares, matrices, pilas y colas.
 
-### 🤖 Consejero de inteligencia artificial para estudiantes
+### 2. 🤖 Unitutor IA — Consejero para estudiantes universitarios
+Aplicación interactiva orientada al apoyo académico y al bienestar emocional de estudiantes universitarios. Incluye consejos emocionales, recordatorios, orientación para manejar el estrés y organización de tareas.
 
-Proyecto académico enfocado en una solución de apoyo y orientación para estudiantes universitarios mediante inteligencia artificial.
+**Tecnologías:** JavaScript y Code.org App Lab.
 
-### 🚦 Sistema de semáforos inteligentes con Arduino
+🔗 [Explorar el proyecto](PEGA_AQUI_EL_ENLACE_PUBLICO)
 
-Proyecto orientado a analizar el flujo vehicular y optimizar el funcionamiento de los semáforos mediante una solución basada en Arduino.
+### 3. 🚦 Semáforos inteligentes con Arduino
+Proyecto académico que utiliza Arduino para analizar el flujo vehicular y plantear una lógica de control de semáforos orientada a optimizar la circulación.
 
-### 🏦 Propuesta de optimización de una aplicación bancaria
+**Tecnologías y conceptos:** Arduino, programación y lógica de control.
 
-Propuesta académica para explorar cómo los servicios de AWS podrían aplicarse en aplicaciones bancarias y contribuir al apoyo de pequeños negocios locales. El proyecto se centró en el análisis de la idea y la comprensión de los servicios en la nube, sin desarrollar una aplicación funcional.
+### 4. 🏦 Propuesta de optimización de una aplicación bancaria
+Propuesta conceptual para explorar cómo optimizar una aplicación bancaria y cómo la tecnología puede apoyar a los pequeños negocios y comercios locales. Se exploró el posible uso de servicios de AWS.
 
-### 🌱 Página web informativa del PNUMA
+**Enfoque:** análisis de soluciones tecnológicas, servicios en la nube y diseño conceptual de software.
 
-Proyecto de desarrollo web con HTML y CSS para presentar información relacionada con el Programa de las Naciones Unidas para el Medio Ambiente.
+*Este proyecto corresponde a una propuesta académica, no a una aplicación funcional implementada.*
 
-### 👕 Asistente de vestimenta inteligente
+### 5. 🌱 Página web informativa del PNUMA
+Página web académica creada para presentar información relacionada con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).
 
-Programa desarrollado en Python que recomienda prendas según las condiciones climáticas ingresadas por el usuario, como la temperatura, la probabilidad de lluvia, la humedad ambiental y el tipo de día. También presenta barras visuales en la terminal para representar las condiciones climáticas.
+**Tecnologías:** HTML y CSS.
 
-**Conceptos aplicados:** funciones, estructuras condicionales, entrada y salida de datos, manejo de excepciones y visualización de información en consola.
+### 6. 👕 Asistente inteligente de vestimenta
+Programa en Python que recomienda prendas de vestir a partir de datos ingresados por el usuario, como temperatura, probabilidad de lluvia, humedad y tipo de día.
 
-## 🎓 Formación académica
+**Tecnologías y conceptos:** Python, funciones, condicionales y representación visual de datos en consola.
+
+## 🎓 Educación
 
 **Universidad Sergio Arboleda**  
-Ciencias de la Computación — Tercer semestre
+Ciencias de la Computación — Tercer semestre.
 
-**Certificación**
+## 📜 Certificaciones
 
-- Oracle Academy — Java Fundamentals (Español), 2026.
+- **Oracle Academy — Java Fundamentals (Español)**, 2026.
 
 ## 🌱 Actualmente
 
-- Fortaleciendo mis habilidades de programación y diseño de software.
-- Desarrollando proyectos académicos para aplicar conceptos teóricos.
-- Mejorando mis conocimientos en desarrollo web, inteligencia artificial y nuevas tecnologías.
+- Fortaleciendo mis habilidades en programación y diseño de software.
+- Desarrollando proyectos académicos para aplicar mis conocimientos.
+- Ampliando mis conocimientos en desarrollo web e inteligencia artificial.
+- Mejorando mis habilidades para resolver problemas y trabajar con herramientas tecnológicas.
 
 ## 📫 Contacto
 
-- **Correo:** [tomfmp7@gmail.com](mailto:tomfmp7@gmail.com)
+📧 **Correo electrónico:** [tomfmp7@gmail.com](mailto:tomfmp7@gmail.com)
+
+💼 **GitHub:** [Explora mis repositorios](https://github.com/)
 
 ---
 
-*Este portafolio se encuentra en constante crecimiento a medida que avanzo en mi formación académica y desarrollo nuevos proyectos.*
+⭐ Este portafolio reúne mis proyectos académicos y refleja mi crecimiento como estudiante de Ciencias de la Computación y desarrollador en formación.
